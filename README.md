@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **KatiRemo/KatiRemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Kati Remo, nice to meet you! 
+My name is Kati Remo, glad you found me here! 
 
 I'm studying at Business College Helsinki to become a Full Stack Developer. 
 
