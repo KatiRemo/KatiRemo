@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Kati Remo, nice to meet you! I'm studying at Business College Helsinki to become a Full Stack Developer. 
+My name is Kati Remo, nice to meet you! 
+I'm studying at Business College Helsinki to become a Full Stack Developer. 
 I am currently working as the COO at Surf House Finland Oy Ltd.
-However, I am looking for a company for internship starting in May 2022.
+However, I am looking for a company to complete my internship in starting in May 2022.
 
-🌱 I’m currently learning JavaScript, React, Express, TypeScript
+🌱 I’m currently learning React, Node & Express, JavaScript
 
 📫 You can reach me fastest by email: kati.remo@edu.bc.fi
-
-![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({https://www.linkedin.com/in/katiremo/})
