@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Kati Remo, nice to meet you! I'm studying at Business College Helsinki to become a Full Stack Developer. 
+I am currently working as the COO at Surf House Finland Oy Ltd.
+However, I am looking for a company for internship starting in May 2022.
+
+🌱 I’m currently learning JavaScript, React, Express, TypeScript
+
+📫 You can reach me fastest by email: kati.remo@edu.bc.fi
+
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
