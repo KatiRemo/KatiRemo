@@ -17,10 +17,10 @@ My name is Kati Remo, glad you found me here!
 
 I'm studying at Business College Helsinki to become a Full Stack Developer. 
 
-I am currently working as the COO at Surf House Finland Oy Ltd.
+I am currently on study leave from Surf House Finland Oy Ltd.
 
-However, I am looking for a company to complete my internship in starting in May 2022.
+I am looking for a company to complete my internship in starting in May 2022.
 
-🌱 I’m currently learning React, Node & Express, JavaScript
+🌱 I’m currently learning React & Redux, TypeScript, JavaScript, AWS & CI/CD, Node & Express.
 
-📫 You can reach me fastest by email: kati.remo@edu.bc.fi
+📫 You can reach me fastest by email: kati.remo@edu.bc.fi or kati.remo@gmail.com
