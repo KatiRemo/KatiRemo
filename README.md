@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Kati Remo, glad you found me here! 
+Hey! I'm Kati, glad you found me here! 
 
 I'm studying at Business College Helsinki to become a Full Stack Developer. 
 
