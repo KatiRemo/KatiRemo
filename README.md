@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 Hey! I'm Kati, glad you found me here! 
 
 I'm working at Ambientia as a Junior Software Developer.
+<br>
 I'm also still a student and completing my degree at Business College Helsinki to become a Full Stack Developer. 
 
 🌱 I’m currently learning React & Redux, TypeScript, JavaScript, AWS & CI/CD, Node & Express.
