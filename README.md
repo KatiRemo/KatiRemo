@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 
 Hey! I'm Kati, glad you found me here! 
 
-I'm studying at Business College Helsinki to become a Full Stack Developer. 
-
-I am currently on study leave from Surf House Finland Oy Ltd.
-
-I am looking for a company to complete my internship in starting in May 2022.
+I'm working at Ambientia as a Junior Software Developer.
+I'm also still a student and completing my degree at Business College Helsinki to become a Full Stack Developer. 
 
 🌱 I’m currently learning React & Redux, TypeScript, JavaScript, AWS & CI/CD, Node & Express.
 
-📫 You can reach me fastest by email: kati.remo@edu.bc.fi or kati.remo@gmail.com
+📫 You can reach me fastest by email: kati.remo@ambientia.fi
