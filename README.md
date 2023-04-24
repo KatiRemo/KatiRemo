@@ -17,8 +17,6 @@ Hey! I'm Kati, glad you found me here!
 
 I'm working at Ambientia as a Junior Software Developer.
 <br>
-I'm also still a student and completing my degree at Business College Helsinki to become a Full Stack Developer. 
-
-🌱 I’m currently learning React & Redux, TypeScript, JavaScript, AWS & CI/CD, Node & Express.
+My repositories have projects from my studies at Business College Helsinki, as well as projects I've done during my free time.
 
 📫 You can reach me fastest by email: kati.remo@ambientia.fi
