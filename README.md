@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 Hey! I'm Kati, glad you found me here! 
 
-I'm working at Ambientia as a Junior Software Developer.
+I'm a Junior Software Developer at Ambientia.
 <br>
-My repositories have projects from my studies at Business College Helsinki, as well as projects I've done during my free time.
+My repositories have projects from my studies at HBC, as well as projects I've done during my free time.
 
 <!--
 📫 You can reach me fastest by email: kati.remo@ambientia.fi
