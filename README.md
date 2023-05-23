@@ -19,4 +19,6 @@ I'm working at Ambientia as a Junior Software Developer.
 <br>
 My repositories have projects from my studies at Business College Helsinki, as well as projects I've done during my free time.
 
+<!--
 📫 You can reach me fastest by email: kati.remo@ambientia.fi
+-->
