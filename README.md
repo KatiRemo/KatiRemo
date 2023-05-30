@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey! I'm Kati, glad you found me here! 
+Hey! I'm Kati, nice to see you here! 
 
 I'm a Junior Software Developer at Ambientia.
 <br>
